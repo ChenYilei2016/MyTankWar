@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>sounds/back.mp3</file>
+    </qresource>
+</RCC>
